@@ -1,22 +1,35 @@
 import { useState } from "react";
-import Login from "./pages/Login";
+
+import Inicio from "./pages/Inicio";
+import FormularioRegistro from "./pages/FormularioRegistro";
+import FormularioLogin from "./pages/FormularioLogin";
 import Dashboard from "./pages/Dashboard";
 
 function App() {
 
-    const [pantalla, setPantalla] = useState("login");
+    // Estado que controla la pantalla actual
+    const [pantalla, setPantalla] = useState("inicio");
 
     return (
 
         <>
-            {pantalla === "login"
-    ? (
-        <Login cambiarPantalla={setPantalla} />
-      )
-    : (
-        <Dashboard cambiarPantalla={setPantalla} />
-      )
-}
+
+            {pantalla === "inicio" && (
+                <Inicio cambiarPantalla={setPantalla} />
+            )}
+
+            {pantalla === "registro" && (
+                <FormularioRegistro cambiarPantalla={setPantalla} />
+            )}
+
+            {pantalla === "login" && (
+                <FormularioLogin cambiarPantalla={setPantalla} />
+            )}
+
+            {pantalla === "dashboard" && (
+                <Dashboard cambiarPantalla={setPantalla} />
+            )}
+
         </>
 
     );

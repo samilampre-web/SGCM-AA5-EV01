@@ -1,0 +1,35 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Samantha",
+      "usuario": "Lamprea",
+      "password": "12356",
+      "id": "lJZF-BYaUVc"
+    },
+    {
+      "nombre": "Daniela",
+      "usuario": "Daniela",
+      "password": "12345",
+      "id": "1Lr_qwo1MY0"
+    },
+    {
+      "nombre": "Samantha ",
+      "usuario": "Samantha Lamprea ",
+      "password": "12345",
+      "id": "GclNPJkXMs4"
+    },
+    {
+      "nombre": "Jhoan Manrique ",
+      "usuario": "Jhoan Manrique ",
+      "password": "12345",
+      "id": "ISwiANh3Cek"
+    },
+    {
+      "nombre": "Ian Marius",
+      "usuario": "Ian Marius",
+      "password": "12345",
+      "id": "WG6OC8lfeuM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -272,3 +272,37 @@ body {
 .btn-menu.activo{
     background:#4a7bd0;
 }
+
+/* DESCRIPCIÓN DE LA PANTALLA DE INICIO */
+
+.descripcion{
+    margin:20px 0;
+    color:#555;
+    font-size:15px;
+    line-height:1.6;
+}
+
+.descripcion{
+    margin:20px 0;
+    color:#555;
+    font-size:15px;
+    line-height:1.6;
+}
+
+.card h1{
+    color:#1a1a3c;
+    margin-bottom:10px;
+}
+
+.card h3{
+    color:#4a7bd0;
+    margin-bottom:20px;
+    font-weight:500;
+}
+
+hr{
+    border:none;
+    height:1px;
+    background:#ddd;
+    margin:15px 0;
+}

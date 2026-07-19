@@ -56,18 +56,7 @@ function Citas({ citas, setCitas }) {
 
             {mostrarFormulario && (
 
-                <div
-    style={{
-        background: "white",
-        border: "2px solid #0A1621",
-        padding: "20px",
-        marginTop: "20px",
-        display: "flex",
-        flexDirection: "column",
-        gap: "15px",
-        width: "350px"
-    }}
->
+                <div className="formulario-cita">
 
                     <input
                         type="text"

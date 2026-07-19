@@ -10,13 +10,13 @@ function Perfil() {
 
             <div className="perfil-card">
 
-                <h3>Samantha Lamprea</h3>
+                <h3>Jhoan Manrique</h3>
 
-                <p>Paciente: Contributivo</p>
+<p>Tipo de usuario: Paciente</p>
 
-                <p>Documento: 1023377298</p>
+<p>Documento: 1001234567</p>
 
-                <p>Correo: samilampre@gmail.com</p>
+<p>Correo: jhoanmanrique@gmail.com</p>
 
             </div>
 

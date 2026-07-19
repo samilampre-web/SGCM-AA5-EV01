@@ -47,7 +47,7 @@ const [citas, setCitas] = useState([
 
                 <button
     className="btn-menu"
-    onClick={() => cambiarPantalla("login")}
+    onClick={() => cambiarPantalla("inicio")}
 >
     Cerrar sesión
 </button>
