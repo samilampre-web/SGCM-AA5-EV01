@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Repositorio-Git/static/css/main.efc0ed4e.css",
-    "main.js": "/Repositorio-Git/static/js/main.6fd99595.js",
-    "static/js/453.5e7bfb03.chunk.js": "/Repositorio-Git/static/js/453.5e7bfb03.chunk.js",
-    "static/media/image.png": "/Repositorio-Git/static/media/image.e3242a79fcb026887e69.png",
-    "index.html": "/Repositorio-Git/index.html",
-    "main.efc0ed4e.css.map": "/Repositorio-Git/static/css/main.efc0ed4e.css.map",
-    "main.6fd99595.js.map": "/Repositorio-Git/static/js/main.6fd99595.js.map",
-    "453.5e7bfb03.chunk.js.map": "/Repositorio-Git/static/js/453.5e7bfb03.chunk.js.map"
+    "main.css": "/git@github.com:samilampre-web/SGCM-AA5-EV01.git/static/css/main.e4eda226.css",
+    "main.js": "/git@github.com:samilampre-web/SGCM-AA5-EV01.git/static/js/main.d340cb15.js",
+    "static/js/453.5e7bfb03.chunk.js": "/git@github.com:samilampre-web/SGCM-AA5-EV01.git/static/js/453.5e7bfb03.chunk.js",
+    "static/media/image.png": "/git@github.com:samilampre-web/SGCM-AA5-EV01.git/static/media/image.e3242a79fcb026887e69.png",
+    "index.html": "/git@github.com:samilampre-web/SGCM-AA5-EV01.git/index.html",
+    "main.e4eda226.css.map": "/git@github.com:samilampre-web/SGCM-AA5-EV01.git/static/css/main.e4eda226.css.map",
+    "main.d340cb15.js.map": "/git@github.com:samilampre-web/SGCM-AA5-EV01.git/static/js/main.d340cb15.js.map",
+    "453.5e7bfb03.chunk.js.map": "/git@github.com:samilampre-web/SGCM-AA5-EV01.git/static/js/453.5e7bfb03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efc0ed4e.css",
-    "static/js/main.6fd99595.js"
+    "static/css/main.e4eda226.css",
+    "static/js/main.d340cb15.js"
   ]
 }
