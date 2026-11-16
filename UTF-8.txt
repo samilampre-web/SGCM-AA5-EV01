@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://samilampre-web.github.io/SGCM-AA5-EV01/sitemap.xml
