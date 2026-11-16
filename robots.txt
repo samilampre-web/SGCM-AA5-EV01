@@ -1,3 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
+
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://samilampre-web.github.io/SGCM-AA5-EV01/sitemap.xml
